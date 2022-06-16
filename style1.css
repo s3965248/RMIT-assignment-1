@@ -1,10 +1,10 @@
 body {
-	background-color: white;
+	background-color: black;
 	border-style: double;
 }
 
 h1 {
-	color: black;
+	color: lightgreen;
 	margin-left: 20px;
 	font-style: italic;
 }
