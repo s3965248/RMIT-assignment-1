@@ -1,6 +1,9 @@
 body {
 	background-color: black;
 	border-style: double;
+	border-color: lightgreen;
+	margin: 30px;
+	padding: 30;
 }
 
 h1 {
