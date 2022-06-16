@@ -8,3 +8,9 @@ h1 {
 	margin-left: 20px;
 	font-style: italic;
 }
+
+p {
+	color: lightgreen;
+	margin-left: 20px;
+	font-style: italic
+}
