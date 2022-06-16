@@ -1,8 +1,10 @@
 body {
 	background-color: white;
+	border-style: double;
 }
 
 h1 {
 	color: black;
 	margin-left: 20px;
+	font-style: italic;
 }
