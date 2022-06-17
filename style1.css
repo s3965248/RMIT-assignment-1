@@ -6,7 +6,7 @@ body {
 	padding: 30px;
 }
 
-h1, p, li, .info, h2{
+h1, p, li, info, h2{
 	color: lightgreen;
 	margin-left: 20px;
 	font-style: italic;
